@@ -1,1 +1,0 @@
-# Cartoonify-Image-with-Python
